@@ -1,13 +1,11 @@
+import Hero from "./component/Sections/Hero"
 
 
 function App() {
   return (
-    <main>
-        <div>
-            Welcome to mt 3d Portfolio
-        </div>
-
-    </main>
+    <>
+    <Hero/>
+    </>
   )
 }
 
